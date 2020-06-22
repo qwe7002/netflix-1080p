@@ -1,7 +1,7 @@
 // From EME Logger extension
 
 script_urls = [
-    'https://cdn.jsdelivr.net/npm/aes-js@3.1.2/index.min.js,
+    'https://cdn.jsdelivr.net/npm/aes-js@3.1.2/index.min.js',
     'https://cdn.jsdelivr.net/npm/jssha@3.1.0/dist/sha.min.js'
 ]
 
